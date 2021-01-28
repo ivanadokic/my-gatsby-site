@@ -49,5 +49,4 @@
     
 
  5.  **My Blog**
-    
-    `[click here](https://dev.to/ivanadokic/getting-started-with-gatsby-4lbj)`
+(https://dev.to/ivanadokic/getting-started-with-gatsby-4lbj)
